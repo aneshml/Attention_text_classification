@@ -5,3 +5,4 @@ Interpreting the outputs of LSTM/GRU for the text classification task using modi
 - Dataset : IMDB review dataset
 ## Output
 ![new project](images/output.png)
+![new project](images/output4.png)
