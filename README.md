@@ -6,3 +6,6 @@ Interpreting the outputs of LSTM/GRU for the text classification task using modi
 ## Output
 ![new project](images/output.png)
 ![new project](images/output4.png)
+
+## Bidirectional GRU Output
+![new project](images/output5.png)
